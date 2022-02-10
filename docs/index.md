@@ -9,14 +9,13 @@
     <h1>Vídeos que resumem a tier de cada time relevante no meta atualmente</h1>
     <hr>
     <h2>tier carros brabo dos brabos muito bom</h2>
-    <video src="carros2 - Copia.webm" widht="300" controls></video>
-    <br> Times:Fusão, Saiyajins e god ki
+    <img align="left" alt="maior tier" height="265" width="600" src="https://cdn.discordapp.com/attachments/940798829987516506/941413256323547146/unknown.png"
+    <br> <h1> Times:Fusão, Saiyajins e god ki </h1>
     <br> Representando o usuário do time acima: 💪🧠💪🧠💪🧠💪🧠💪🧠
-    <br> <img src="gif.gif" width="400" alt="melhor time"> 💪🧠
-  </div>
+<br>
     <hr>
-    <h2>tier outros times que nao sao os de cima</h2>
-    <br> <video src="eita.webm" controls ></video>
+    <h2> <br> tier outros times que nao sao os de cima</h2>
+    <br> <img align="center" alt="brabo" height="250" width="250" src="https://media.discordapp.net/attachments/482200446958567425/562821472167657493/gif.gif"
     <hr>
     <h2>times que possuem regeneração ou mais de 4 cores iguais</h2>
     <br> <img align="left" alt="regen e mono" src="https://cdn.discordapp.com/attachments/940798829987516506/941407101098541087/Screenshot_2.png"
