@@ -15,10 +15,10 @@
 <br>
     <hr>
     <h2> <br> tier outros times que nao sao os de cima</h2>
-    <br> <img align="center" alt="brabo" height="250" width="250" src="https://media.discordapp.net/attachments/482200446958567425/562821472167657493/gif.gif"
+    <br> <img align="center" alt="brabo" height="250" width="250" src="https://media.discordapp.net/attachments/482200446958567425/562821472167657493/gif.gif"/>
     <hr>
     <h2>times que possuem regeneração ou mais de 4 cores iguais</h2>
-    <br> <img align="left" alt="regen e mono" src="https://cdn.discordapp.com/attachments/940798829987516506/941407101098541087/Screenshot_2.png"
+    <br> <img align="left" alt="regen e mono" src="https://cdn.discordapp.com/attachments/940798829987516506/941407101098541087/Screenshot_2.png"/>
 </head>
 <body>
     
