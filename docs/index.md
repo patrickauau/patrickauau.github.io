@@ -9,7 +9,7 @@
     <h1>Fotos que resumem a tier de cada time relevante no meta atualmente</h1>
     <hr>
     <h2>tier carros brabo dos brabos muito bom</h2>
-    <img align="left" alt="maior tier" height="265" width="600" src="https://cdn.discordapp.com/attachments/940798829987516506/941413256323547146/unknown.png"
+    <video align="left" alt="carros brabos" height="265" width="600" src="https://cdn.discordapp.com/attachments/489234783734595604/941417558635085874/carros2_-_Copia.webm" controls></video>
     <br> <h1> Times:Fusão, Saiyajins e god ki </h1>
     <br> Representando o usuário do time acima: 💪🧠💪🧠💪🧠💪🧠💪🧠
 <br>
