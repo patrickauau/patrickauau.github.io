@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     Dragon ball legends tierlist
-    <h1>Vídeos que resumem a tier de cada time relevante no meta atualmente</h1>
+    <h1>Fotos que resumem a tier de cada time relevante no meta atualmente</h1>
     <hr>
     <h2>tier carros brabo dos brabos muito bom</h2>
     <img align="left" alt="maior tier" height="265" width="600" src="https://cdn.discordapp.com/attachments/940798829987516506/941413256323547146/unknown.png"
