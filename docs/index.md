@@ -19,7 +19,7 @@
     <br> <video src="eita.webm" controls ></video>
     <hr>
     <h2>times que possuem regeneração ou mais de 4 cores iguais</h2>
-    <br> <img align="left" alt="regen e mono" src="Screenshot_2.png" alt="regen users e mono team">
+    <br> <img align="left" alt="regen e mono" src="https://cdn.discordapp.com/attachments/940798829987516506/941407101098541087/Screenshot_2.png"
     <br> 
 </head>
 <body>
